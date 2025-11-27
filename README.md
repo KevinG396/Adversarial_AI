@@ -1,6 +1,6 @@
 # Analyzing and Optimizing the Robustness of Neural Networks
 
-We implement various types of **adversarial attacks** and corresponding **defense mechanisms**, and test their performance on different neural networks and datasets. Each `.ipynb` file corresponds to a specific attack method applied to a specific neural network and dataset, along with its defense strategy.
+Various types of **adversarial attacks** and corresponding **defense mechanisms** are implemented in this project, and their performance on different neural networks and datasets are tested. Each `.ipynb` file corresponds to a specific attack method applied to a specific neural network and dataset, along with its defense strategy.
 
 ---
 
